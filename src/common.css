@@ -1,0 +1,13 @@
+div.content { width: 160mm;
+              height: 250mm;
+              margin-left: 30mm;
+              margin-right: 20mm;
+              margin-top: 20mm;
+              margin-bottom: 20mm;
+            }
+p { text-align: justify }
+section.after {
+                content: "";
+                display: table;
+                clear: both;
+            }
